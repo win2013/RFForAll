@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="option_4">My Map</string>
+    <string name="option_3">My ranking</string>
+    <string name="option_2">About</string>
+    <string name="option_1">Settings</string>
+    <string name="constituion">Your right to see your cell coverage</string>
+    <string name="description">"RF for All"</string>
+    <string name="hello">Hello World, RFForAll!</string>
+    <string name="app_name">RFForAll</string>
+</resources>
